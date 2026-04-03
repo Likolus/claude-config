@@ -1,0 +1,12 @@
+# Исключить чувствительные данные
+*.log
+*.tmp
+transcripts/
+sessions/
+cache/
+temp/
+.DS_Store
+
+# Исключить большие файлы
+*.sqlite
+*.db

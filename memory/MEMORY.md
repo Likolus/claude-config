@@ -1,0 +1,4 @@
+- [DeerFlow Skills Auto-Trigger](deerflow_skills_auto_trigger.md) — Automatically apply DeerFlow skills (deep-research, data-analysis, github-research, consulting-analysis) when context matches their domain without explicit request
+- [Claude Code Best Practices](claude_code_best_practices.md) — Core patterns from 31k⭐ repo: orchestration, workflows, frontmatter fields, Boris Cherny setup, hot features
+- [Orchestration Workflow Pattern](orchestration_workflow_pattern.md) — Command → Agent → Skill pattern for complex multi-step workflows with separation of concerns
+- [Boris Cherny Workflow](boris_cherny_workflow.md) — Claude Code creator's setup: parallelism, verification loops, team collaboration, and "verification is everything" principle

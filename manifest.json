@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "updated": "2026-04-03T15:23:18Z",
+  "components": {
+    "agents": true,
+    "skills": true,
+    "memory": true,
+    "settings": true,
+    "mcp": false
+  }
+}
